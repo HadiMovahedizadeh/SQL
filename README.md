@@ -1,2 +1,2 @@
-# Attendance-Management-System
-A  simple attendance management system built using Python and SQLite to record entry and exit of individuals.
+# SQL
+Initial commit for library management system. Includes SQL script to create authors and books tables, with sample data.
